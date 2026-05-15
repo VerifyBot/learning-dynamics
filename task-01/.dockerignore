@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+output/
+logs/
+*.pyc
+.git/
+.gitignore
+.vscode/
+.idea/
+docs/
+TASK.md
+README.md
+*.egg-info/
